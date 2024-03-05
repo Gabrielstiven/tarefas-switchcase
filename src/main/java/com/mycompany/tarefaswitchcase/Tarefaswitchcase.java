@@ -47,22 +47,22 @@ public class Tarefaswitchcase {
             */
         
                 
-        /*System.out.println("escreva uma letra vogal maiúscula ou minuscula, vogal ou consoante");
+        System.out.println("escreva uma letra vogal maiúscula ou minuscula, vogal ou consoante");
         letra = teclado.next().charAt(0);
-        
+        /*
         switch (letra){
         case 'A' -> System.out.println("vogal maiúscula");
         case 'a' -> System.out.println("vogal minúscula");
         case 'E' -> System.out.println("vogal maiúscula");
-        case 'e' -> System.out.println("vogal minuscula");
+        case 'e' -> System.out.println("vogal minúscula");
         case 'O' -> System.out.println("vogal maiúscula");
-        case 'o' -> System.out.println("vogal minuscula");
+        case 'o' -> System.out.println("vogal minúscula");
         case 'U' -> System.out.println("vogal maiúscula");
-        case 'u' -> System.out.println("vogal minuscula");
+        case 'u' -> System.out.println("vogal minúscula");
         default -> System.out.println("consoante");
         */
         
-        System.out.println("escreva um numero inteiro entre 1 e 3");
+        System.out.println("escreva um numero inteiro entre 1 e 3 b");
         num1 = teclado.nextInt();
         
         switch (num1){
@@ -70,12 +70,11 @@ public class Tarefaswitchcase {
             case 2 ->System.out.println("numero 2");
             case 3 ->{System.out.println("numero 3");
             
-            
             if (num1 > 2)
             System.out.println("maior que o número 2 e 1");
             break;
             }
-            default ->System.out.println("número não é 1,2 ou 3");
+            default ->System.out.println(" esse número não é 1,2 ou 3");
         }}
         
             
@@ -87,10 +86,10 @@ public class Tarefaswitchcase {
 
 
  
-        }
+        
             
             
-    }
+
 
 
 
